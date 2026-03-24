@@ -4,7 +4,7 @@ I'm currently a master's student enrolled in Western Washington Univeristy's CS 
 ## Projects:
 - [AVL Tree](https://github.com/DuncanGJ/AVL-Tree) basic implementation of an AVL tree in java
 - [Linked List](https://github.com/DuncanGJ/Linked-List-Week-9) In this fun project I implemented a doubly linked list using XOR logic in C++
-- [Pascal's Triangle)(https://github.com/DuncanGJ/Assignment-8) In this project I implemented algorithms for determing the LCD and arbitrarily large pascal's triangles
+- [Pascal's Triangle](https://github.com/DuncanGJ/Assignment-8) In this project I implemented algorithms for determing the LCD and arbitrarily large pascal's triangles
 - [Black Jack](https://github.com/DuncanGJ/DeckOfCards-Project-Week-2) In this project I implemented a basic game of blackjack
 
 <!--
